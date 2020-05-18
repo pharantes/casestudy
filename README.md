@@ -1,4 +1,4 @@
-# Acquisition.frontend-case-study
+Frontend developer case study
 Case study task for potential acquisition frontend developers
 
 We would like you to create a simple landing page with the given design.  Further styling details can be found below.  To display the form simply use the image provided as a place holder.
