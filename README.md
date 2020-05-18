@@ -16,8 +16,8 @@ The goal of the case study is to see how you approach coding and building a page
 Good luck
 
 ### Requirements:
-- Page should be responsive responsive,
--	Our standadiesed break point is at 600px.
+- Page should be responsive,
+-	Our standard break point is at 600px.
 -	Page should be cross browser compatible
 -	The date should be dynamic and be 2 days behind the current date.
 -	Use the image provided to display the from color matching is not required.
