@@ -2,13 +2,14 @@ Frontend developer case study
 Case study task for potential acquisition frontend developers
 
 We would like you to create a simple landing page with the given design.  Further styling details can be found below.  To display the form simply use the image provided as a place holder.
+
 A major part of the role is taking a landing page design and building it into live pages that generate us leads.
 
 Here is a link to a new landing page design from the design team that was done in Adobe XD.
 
 https://xd.adobe.com/view/261d1ce5-915d-4b13-4049-5e905cd7e67b-502c/
 
-Attached to the email is an assets folder with all the images needed for the page.
+All images can be found in the images folder.
 
 The goal of the case study is to see how you approach coding and building a page from a mock up.  We are not looking for a perfect page build and please don’t spend too long on it.
 
