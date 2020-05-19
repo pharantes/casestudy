@@ -20,7 +20,7 @@ Good luck
 -	Our standard break point is at 600px.
 -	Page should be cross browser compatible
 -	The date should be dynamic and be 2 days behind the current date.
--	Use the image provided to display the from color matching is not required.
+-	Use the image provided to display the form color matching is not required.
 -	Use the provided image assets and chose the appropriate size and format.
 -	Make sure everything is performance optimized
 -	Buttons(CTA’s) do not have to be clickable or link anyway but showing they are interactive elements is a plus.
