@@ -26,7 +26,7 @@ Good luck
 -	Buttons(CTA’s) do not have to be clickable or link anyway but showing they are interactive elements is a plus.
 
 ### Please use:
--	Modern HTML and CSS to create the landing page.
+-	Modern HTML, CSS and javascript to create the landing page.
 -	Page should be IE 11-safe.
 
 ### Submission
